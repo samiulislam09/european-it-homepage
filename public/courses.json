@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "courseName": "Laravel Framework",
+        "img": "https://europeanit-inst.com/wp-content/uploads/2020/03/European-IT-Laravel-Development.jpg",
+        "category": "Web Development"
+    },
+    {
+        "id": 2,
+        "courseName": "Graphic Design",
+        "img": "https://europeanit-inst.com/wp-content/uploads/2020/03/European-IT-Graphic-Design.jpeg",
+        "category": "Graphic Design"
+    },
+    {
+        "id": 3,
+        "courseName": "Web Design",
+        "img": "https://europeanit-inst.com/wp-content/uploads/2020/03/European-IT-Web-Design-Course.jpg",
+        "category": "Web Development"
+    },
+    {
+        "id": 4,
+        "courseName": "Web Design & Development",
+        "img": "https://europeanit-inst.com/wp-content/uploads/2020/11/European-IT-Web-Design-Development-Course-1.jpg",
+        "category": "Web Development"
+    },
+    {
+        "id": 5,
+        "courseName": "WordPress Theme Customization",
+        "img": "https://europeanit-inst.com/wp-content/uploads/2020/03/European-IT-Wordpress-Theme-Customization.jpg",
+        "category": "Web Development"
+    },
+    {
+        "id": 6,
+        "courseName": "OOP PHP & MySql",
+        "img": "https://europeanit-inst.com/wp-content/uploads/2020/03/European-IT-OOP-PHP-MySQL-Course.jpg",
+        "category": "Web Development"
+    },
+    {
+        "id": 7,
+        "courseName": "CodeIgniter",
+        "img": "https://europeanit-inst.com/wp-content/uploads/2020/03/European-IT-Codeigniter-Course.jpg",
+        "category": "Web Development"
+    },
+    {
+        "id": 8,
+        "courseName": "App Development",
+        "img": "https://europeanit-inst.com/wp-content/uploads/2020/03/European-IT-Apps-Development.jpg",
+        "category": "Web Development"
+    },
+    {
+        "id": 9,
+        "courseName": "Python",
+        "img": "https://europeanit-inst.com/wp-content/uploads/2020/03/European-IT-Python-Development.jpg",
+        "category": "Web Development"
+    },
+    {
+        "id": 10,
+        "courseName": "3D Animation",
+        "img": "https://europeanit-inst.com/wp-content/uploads/2020/03/European-IT-3D-Animation-Course.jpg",
+        "category": "Graphic Design"
+    },
+    {
+        "id": 11,
+        "courseName": "UI/UX Design",
+        "img": "https://europeanit-inst.com/wp-content/uploads/2020/03/European-IT-UIUX-design.png",
+        "category": "Graphic Design"
+    },
+    {
+        "id": 12,
+        "courseName": "Photography",
+        "img": "https://europeanit-inst.com/wp-content/uploads/2020/03/European-IT-Photography-Course.jpg",
+        "category": "Graphic Design"
+    }
+]
