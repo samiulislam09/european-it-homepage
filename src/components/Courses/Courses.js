@@ -9,14 +9,15 @@ function Courses() {
   return (
       <div className='courses-container'>
           <div className="title">
-            <p>MOST POPULAR</p>
-            <h1>Course Programs</h1>
+            <p className='popular-text'>MOST POPULAR</p>
+            <h1 className='course-program-text'>Course Programs</h1>
           </div>
           <div className="cards">
               {
                   projects.map(project => <CourseTemplate key={project.id} project={project}></CourseTemplate>)
               }
           </div>
+          <button className='all-courses-btn'>See All Courses</button>
 
     </div>
   )
