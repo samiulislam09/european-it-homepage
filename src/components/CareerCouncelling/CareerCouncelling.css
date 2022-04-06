@@ -1,0 +1,56 @@
+.councellinf-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 50px;
+}
+
+.input-section{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 50px;
+    flex-direction: column;
+}
+.councellinf-container .input{
+    padding: 8px 20px;
+    width: 230px;
+    outline: none;
+    border: 1px solid #d2d2d2;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.councellinf-container .select{
+    width: 272px;
+}
+.councellinf-container .message{
+        height: 150px;
+        width: 512px;
+        margin-left: 12px;
+}
+.councellinf-container .submit-btn{
+    font-size: 14px ;
+    color: #fff;
+    margin: 40px auto;
+    background: #00aeef;
+    padding: 0 43px;
+    height: 40px;
+    width: 166px;
+    min-height: 40px;
+    border: unset ;
+    border-radius: 5px;
+    transition: 0.3s;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.career-text{
+color: #3C6382;
+font-size: 18px;
+font-weight: 500;
+text-transform: uppercase;
+letter-spacing: .5px;
+}
+.councelling-text{
+color: #3C6382;
+font-size: 30px;
+font-weight: 700;
+}

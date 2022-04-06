@@ -1,0 +1,32 @@
+.services-container{
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    padding: 25px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #6b66665e;
+    margin: 35px 120px;
+}
+
+.services-container .card{
+    padding: 20px;
+    background-color: white;
+    width: 295px;
+    box-shadow: none;
+}
+.services-container .card:nth-child(2), .services-container .card:nth-child(3), .services-container .card:nth-child(4){
+    border-left: 1px solid rgba(191, 191, 191, 0.589);
+}
+.services-container h3{
+    color: #3c6382;
+}
+.services-container .icon{
+    height: 34px;
+    color: #00AEEF;
+    width: 34px;
+    padding: 20px;
+    border: 1px solid #e1e8ea;
+    border-radius: 50%;
+}

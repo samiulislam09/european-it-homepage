@@ -1,0 +1,22 @@
+.welcome-container{
+    padding: 50px;
+    width: 70%;
+    text-align: center;
+    margin: 0 auto;
+}
+.welcome-container .top-text{
+    color: #3C6382;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+}
+.welcome-container .it-name{
+    color: #3C6382;
+    font-size: 30px;
+    font-weight: 700;
+}
+.welcome-container .details{
+    margin-bottom: 1.5rem;
+    line-height: 30px;
+}
