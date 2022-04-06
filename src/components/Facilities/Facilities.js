@@ -1,4 +1,3 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import React from 'react'
 import useFacilities from '../../hooks/useFacilities'
 import Facility from '../FacilityTemplate/Facility';

@@ -6,7 +6,7 @@
     padding: 25px;
     background-color: white;
     border-radius: 5px;
-    border: 1px solid #6b66665e;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 10%);
     margin: 35px 120px;
 }
 

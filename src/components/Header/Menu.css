@@ -1,0 +1,36 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 10%);
+    padding: 20px 10px;
+    align-items: center;
+    border-radius: 5px;
+    background-color: white;
+}
+.menu-item ul{
+    display: flex;
+}
+.menu-item ul li a{
+    padding: 5px 10px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #3c6382;
+}
+.menu-item ul li a:hover{
+    color: #00aeef;
+}
+.admission-now-btn{
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0;
+    background-color: #00AEEF;
+    border-radius: 5px 5px 5px 5px;
+    padding: 13px 20px 13px 20px;
+    border: none;
+    outline: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
