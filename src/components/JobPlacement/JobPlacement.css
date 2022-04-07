@@ -43,3 +43,18 @@
 .job-placement .video{
     width: 50%;
 }
+
+@media all and (max-width: 768px){
+    .job-placement{
+        flex-direction: column;
+        padding: 10px;
+    }
+    .job-placement .details p{
+        width: 100%;
+        padding: 0;
+    }
+    .job-placement-video{
+        width: 120%;
+        height: auto;
+    }
+}

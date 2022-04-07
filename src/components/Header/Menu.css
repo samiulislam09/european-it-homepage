@@ -38,6 +38,9 @@ nav .wrapper {
 .wrapper .nav-links {
     display: inline-flex;
 }
+.fa-bars{
+    color: black;
+}
 
 .nav-links li {
     list-style: none;
@@ -171,8 +174,8 @@ nav .wrapper {
     font-weight: 700;
     letter-spacing: 0;
     background-color: #00AEEF;
-    border-radius: 5px 5px 5px 5px;
-    padding: 13px 20px 13px 20px;
+    border-radius: 5px;
+    padding: 13px 10px;
     color: white;
     outline: none;
     border: none;

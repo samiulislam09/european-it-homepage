@@ -13,7 +13,7 @@ function JobPlacement() {
               <p className='post'>Graphic Designer</p>
           </div>
           <div className='video'>
-              <iframe width="600" height="500" src="https://www.youtube.com/embed/lvUYeGI0yHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe className='job-placement-video' width="600" height="500" src="https://www.youtube.com/embed/lvUYeGI0yHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
     </div>
   )

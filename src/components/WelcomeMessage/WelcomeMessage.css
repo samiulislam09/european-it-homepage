@@ -20,3 +20,9 @@
     margin-bottom: 1.5rem;
     line-height: 30px;
 }
+@media all and (max-width:768px){
+    .welcome-container{
+        width: 100%;
+        padding: 20px;
+    }
+}

@@ -23,3 +23,9 @@
     color: #3C6382;
     padding: 20px 0;
 }
+
+@media all and (max-width:768px){
+    .footer-content{
+        flex-direction: column;
+    }
+}

@@ -39,3 +39,12 @@
     margin-top: -140px;
     z-index: 99;
 }
+@media all and (max-width: 768px){
+    .header-top{
+        flex-direction: column;
+    }
+    .number p,
+    .mail p{
+        font-size: 14px;
+    }
+}

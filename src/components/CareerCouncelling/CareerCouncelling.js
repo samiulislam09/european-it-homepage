@@ -32,7 +32,7 @@ function CareerCouncelling() {
               </div>
               <button className='submit-btn'>SUBMIT</button>
           </div>
-          <img src="https://europeanit-inst.com/wp-content/uploads/2021/08/European-IT-Counselling-Image.png" alt="" />
+          <img className='career-councelling-img' src="https://europeanit-inst.com/wp-content/uploads/2021/08/European-IT-Counselling-Image.png" alt="" />
     </div>
   )
 }
